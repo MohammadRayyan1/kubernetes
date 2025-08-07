@@ -1,0 +1,12 @@
+kind: DevOpsBatch
+apiVersion: mohdrayyan.com/v1
+metadata:
+  name: junoon-batch-2
+
+spec:
+  name: Devops-Zero-To-Hero
+  duration: 5 month
+  platform: Youtube
+  mode: Recorded/Live
+
+
